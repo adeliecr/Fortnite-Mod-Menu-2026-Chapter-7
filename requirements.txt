@@ -1,0 +1,5 @@
+matplotlib
+discord.py
+numpy
+keyboard
+pywin32
